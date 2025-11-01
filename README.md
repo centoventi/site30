@@ -3,10 +3,10 @@ Welcome to the public SCPF: Site-30 github repository.
 Here you will find our code for your SCP games.
 
 # Update notes:
-- Updated the cards script to support Sr. Scientist cards and GOC cards
+- N/A, Discontinued repository.
 
 # How to report bugs:
-Please report bugs via [our discord](https://discord.gg/GuEFSWJQS7).
+Please report bugs via [our discord](https://discord.gg/GuEFSWJQS7). [CLOSED]
 
 Last updated: July 2025
 
